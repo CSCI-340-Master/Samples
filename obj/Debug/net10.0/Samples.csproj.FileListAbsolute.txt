@@ -1,0 +1,15 @@
+/workspaces/Samples/bin/Debug/net10.0/Samples
+/workspaces/Samples/bin/Debug/net10.0/Samples.deps.json
+/workspaces/Samples/bin/Debug/net10.0/Samples.runtimeconfig.json
+/workspaces/Samples/bin/Debug/net10.0/Samples.dll
+/workspaces/Samples/bin/Debug/net10.0/Samples.pdb
+/workspaces/Samples/obj/Debug/net10.0/Samples.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Samples/obj/Debug/net10.0/Samples.AssemblyInfoInputs.cache
+/workspaces/Samples/obj/Debug/net10.0/Samples.AssemblyInfo.cs
+/workspaces/Samples/obj/Debug/net10.0/Samples.csproj.CoreCompileInputs.cache
+/workspaces/Samples/obj/Debug/net10.0/Samples.sourcelink.json
+/workspaces/Samples/obj/Debug/net10.0/Samples.dll
+/workspaces/Samples/obj/Debug/net10.0/refint/Samples.dll
+/workspaces/Samples/obj/Debug/net10.0/Samples.pdb
+/workspaces/Samples/obj/Debug/net10.0/Samples.genruntimeconfig.cache
+/workspaces/Samples/obj/Debug/net10.0/ref/Samples.dll
